@@ -21,7 +21,7 @@ To run the Event Management Website locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/hemanshu7101/Eventsia.git
+   git clone https://github.com/shejsran/Eventsia.git
 2. Make sure you have Node.Js installed.
 3. You can run the project by opening the index file on localhost.
 
